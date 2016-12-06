@@ -1,0 +1,11 @@
+{
+    "name": "iknsa/exos",
+    "type": "project",
+    "require": {},
+    "autoload": {
+    	"psr-4": {
+    		"": "src/",
+    		"Exos\\": "src/Exos"
+    	}
+    }
+}
